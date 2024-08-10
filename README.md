@@ -21,7 +21,7 @@ A healthcare patient management application that allows patients to easily regis
 - Next.js
 - TypeScript
 - Appwrite
-- shadcn
+- ShadCN
 - Tailwind CSS
 - Twilio
 
