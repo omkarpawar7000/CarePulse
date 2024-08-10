@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://camo.githubusercontent.com/7c8871326e24b260033c205d157830d0e2d6d339724b19e37b4583af48ed5c81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41707077726974652d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d617070777269746526636f6c6f723d464433363645" alt="tailwindcss" />
   </div>
 
   <h3 align="center">A Zoom Clone</h3>
